@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @itsVnp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Vivekanand Pandey
+- 💞️ I’m interested in android, java, flutter.
+- 🌱 I’m currently learning Flutter.
+- 👀 I’m looking to collaborate on Android projects.
+- 📫 How to reach me itsvnpandey@gmail.com.
 
 <!---
 itsVnp/itsVnp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
