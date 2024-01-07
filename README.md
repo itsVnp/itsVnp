@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vivekanand Pandey
-- 💞️ I’m interested in android, java, flutter.
+- 💞️ I’m interested in Android, Java, Kotlin, and Flutter.
 - 🌱 I’m currently learning Flutter.
 - 👀 I’m looking to collaborate on Android projects.
 - 📫 How to reach me itsvnpandey@gmail.com.
